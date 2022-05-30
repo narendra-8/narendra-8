@@ -6,9 +6,6 @@
 - 👨‍💻 You can also check out my portfolio at [https://narendra-8.netlify.app/](https://narendra-8.netlify.app/)
 
 - 📫 How to reach me **narendratullibilli@gmail.com**
-- ⚡ Fun fact I think I am funny 
-
-
 
 </p>
 
@@ -29,6 +26,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
    
 </p>
+
 <p><img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dnpjofuzbeza1l9wkq83ddewhdxz5o3wf41tn2vx&rid=giphy.gif&ct=g"></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendra-8&show_icons=true&locale=en&layout=compact" alt="narendra-8" /></p>
