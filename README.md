@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **narendratullibilli@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SKE0lE_hY3gLmWhd_Tm8udQQwJOUgVMa/view](https://drive.google.com/file/d/1SKE0lE_hY3gLmWhd_Tm8udQQwJOUgVMa/view)
 
 
 </p>
