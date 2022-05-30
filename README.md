@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra-8&label=Profile%20views&color=0e75b6&style=flat" alt="narendra-8" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://narendra-8.netlify.app/](https://narendra-8.netlify.app/)
+- 👨‍💻 You can also check out my portfolio at [https://narendra-8.netlify.app/](https://narendra-8.netlify.app/)
 
 - 📫 How to reach me **narendratullibilli@gmail.com**
+- ⚡ Fun fact I think I am funny 
 
 
 
