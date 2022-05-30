@@ -28,10 +28,11 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
    
 </p>
+<p><img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dnpjofuzbeza1l9wkq83ddewhdxz5o3wf41tn2vx&rid=giphy.gif&ct=g"></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendra-8&show_icons=true&locale=en&layout=compact" alt="narendra-8" /></p>
 
-<p><img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dnpjofuzbeza1l9wkq83ddewhdxz5o3wf41tn2vx&rid=giphy.gif&ct=g"></p>
+
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=narendra-8&show_icons=true&locale=en" alt="narendra-8" /></p>
 
